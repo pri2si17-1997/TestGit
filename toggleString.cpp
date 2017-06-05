@@ -1,3 +1,5 @@
+/*Test if string is toggled.*/
+
 #include<bits/stdc++.h>
 
 using namespace std;
